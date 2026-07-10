@@ -12,6 +12,10 @@ Bạn có thể tải về tệp APK trực tiếp từ liên kết dưới đâ
 
 👉 **[Tải xuống AppDrawer.apk](https://github.com/daivietpda/AppDrawerTV/raw/master/AppDrawer.apk)**
 
+### Cài đặt nhanh qua Downloader App
+Nếu bạn sử dụng ứng dụng **Downloader** trên Android TV, hãy nhập mã code sau để tải nhanh:
+👉 **Code: `8297116`**
+
 ## Hình ảnh ứng dụng
 *Tiêu đề "Tất Cả APP" đã được căn giữa và biểu tượng ứng dụng đã được cập nhật mới.*
 
