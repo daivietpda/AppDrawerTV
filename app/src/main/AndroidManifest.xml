@@ -17,7 +17,7 @@
         android:icon="@drawable/ic_allapps"
         android:label="@string/app_name"
         android:theme="@style/Theme.Leanback"
-        android:banner="@drawable/ic_allapps">
+        android:banner="@drawable/banner">
         <activity
             android:name="org.lineageos.appdrawer.AppDrawerActivity"
             android:label="@string/app_name"

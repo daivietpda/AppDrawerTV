@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tất Cả APP</string>
+    <string name="loading_apps">Đang tải thông tin ứng dụng…</string>
+</resources>

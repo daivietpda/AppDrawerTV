@@ -15,6 +15,7 @@
 
 <resources>
 
-    <string name="app_name">App Drawer</string>
+    <string name="app_name">All Apps</string>
+    <string name="loading_apps">Loading application info&#8230;</string>
 
 </resources>

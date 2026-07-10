@@ -112,7 +112,7 @@ public class AppDrawerActivity extends Activity {
 
     @Override
     protected void onPreExecute() {
-      progress = ProgressDialog.show(AppDrawerActivity.this, null, "Loading application info...");
+      progress = ProgressDialog.show(AppDrawerActivity.this, null, getString(R.string.loading_apps));
       super.onPreExecute();
     }
 
