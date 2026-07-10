@@ -20,8 +20,8 @@
     android:orientation="vertical"
     android:paddingStart="48dp"
     android:paddingEnd="48dp"
-    android:paddingTop="24dp"
-    android:paddingBottom="24dp"
+    android:paddingTop="6dp"
+    android:paddingBottom="12dp"
     android:clipToPadding="false"
     android:background="#121212">
 
@@ -29,17 +29,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:paddingTop="18dp"
-        android:paddingBottom="12dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="6dp"
         android:text="@string/app_name"
         android:textColor="#FFFFFF"
-        android:textSize="24sp"
+        android:textSize="20sp"
         android:textStyle="bold" />
 
     <GridView
         android:id="@+id/grid"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         android:columnWidth="120dp"
         android:gravity="center"
         android:horizontalSpacing="16dp"
