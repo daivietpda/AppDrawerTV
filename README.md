@@ -10,7 +10,7 @@
 ## Tải về phiên bản mới nhất
 Bạn có thể tải về tệp APK trực tiếp từ liên kết dưới đây:
 
-👉 **[Tải xuống AppDrawer.apk](https://github.com/daivietpda/AppDrawerTV/raw/master/AppDrawer.apk)**
+👉 **[Tải xuống AppDrawer.apk](https://github.com/daivietpda/AppDrawerTV/releases/download/v1.1.0/AppDrawer.apk)**
 
 ### Cài đặt nhanh qua Downloader App
 Nếu bạn sử dụng ứng dụng **Downloader** trên Android TV, hãy nhập mã code sau để tải nhanh:
